@@ -1,0 +1,14 @@
+# Pastas de IDEs (PyCharm, VSCode, etc)
+.idea/
+.vscode/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Arquivos de sistema
+.DS_Store

@@ -1,0 +1,8 @@
+TRATAMENTO DE ERROS E EXCEÇÕES
+
+try(operação)  --> tente
+except(falhou) --> exceto (se nao)
+else           --> deu certo (se o try der certo)
+finally        --> certo/falha
+
+obs.: um try pode ter vários except, como: except TyperErro; except ValueError; except OSError...

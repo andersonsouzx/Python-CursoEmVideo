@@ -1,0 +1,15 @@
+MODULARIZAÇÃO
+
+- Surgiu no início da década de 60
+- Sistemas ficando cada vez maiores
+- Foco: dividir um programa grande
+- Foco: aumentar a legibilidade
+- Foco: facilitar a manutenção
+
+Vantagens:
+- Organização do código
+- Facilidade na manutenção
+- Ocultação do código detalhado
+- Reutilização em outros projetos
+
+package
